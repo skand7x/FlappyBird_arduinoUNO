@@ -6,7 +6,7 @@ This is an implementation of the popular Flappy Bird game for Arduino Uno with a
 
 - Arduino Uno R3
 - 2.4" TFT LCD Touch Screen Display (ILI9341 or compatible)
-- USB cable for programming
+- USB cable 
 
 ## Wiring Connection
 
